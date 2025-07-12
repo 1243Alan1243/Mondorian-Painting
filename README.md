@@ -1,2 +1,2 @@
 # Mondorian-Painting
-Mondorian Painting made using CSS
+Mondorian Painting made using CSS Grid
